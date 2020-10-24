@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 body {
-  padding-top: 56px;
+  padding-top: 71px;
 }
 
 .carousel-item {
@@ -19,4 +19,7 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+header-top-line{
+  margin-top: 25px;
 }
